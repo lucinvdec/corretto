@@ -286,7 +286,7 @@
   width: 100%;
   max-height: 410px;
   padding: 0px 12px 0px 10px;
-  margin-top: -10px;
+  margin-top: 10px;
   box-sizing: border-box;
   display: grid;
   grid-template-columns: 24% 24% 24% 24%;
@@ -305,6 +305,7 @@
 .rebox001{
   width: 100%;
   box-sizing: border-box;
+  margin-top: -25px;
 }
 
 .rebox002{
