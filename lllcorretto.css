@@ -161,11 +161,11 @@
   padding-left: 10px;
   text-transform: uppercase;
   text-shadow: 0px 0px 20px #999;
+  margin-bottom: 10px;
 }
 
 .llll020{
   padding: 0px 20px;
-  margin-top: 10px;
   font-size: min(1.3vw, 15px);
   text-align: left
 }
@@ -246,11 +246,11 @@
   padding-left: 10px;
   text-transform: uppercase;
   text-shadow: 0px 0px 20px #999;
+  margin-bottom: 10px;
 }
 
 .llll031{
   padding: 0px 20px;
-  margin-top: 10px;
 }
 
 .llll032{
@@ -259,7 +259,6 @@
 
 .llll033{
   padding: 0px 20px;
-  margin-top: 10px;
   text-align: left;
 }
 
