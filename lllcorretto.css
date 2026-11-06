@@ -284,7 +284,7 @@
 .llll036rebox{
   width: 100%;
   max-height: 410px;
-  padding: 0px 12px 0px 10px;
+  padding: 5px 12px 0px 10px;
   margin-top: 10px;
   box-sizing: border-box;
   display: grid;
